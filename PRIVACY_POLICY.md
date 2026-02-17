@@ -86,10 +86,10 @@ We retain your personal information for as long as necessary to provide our serv
 
 ## Contact Us
 
-If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
+If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us through:
 
-**Email**: [Your Contact Email]  
-**GitHub**: https://github.com/GoldAndYouth/AstroRun
+**GitHub Issues**: https://github.com/GoldAndYouth/AstroRun/issues  
+**Repository**: https://github.com/GoldAndYouth/AstroRun
 
 ## Legal Basis for Processing (GDPR)
 
